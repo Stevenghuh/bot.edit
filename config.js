@@ -54,8 +54,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = 'The Shadow Brokers - Bot'
+global.packname = 'BOT STV'
+global.author = 'BOT STV - Bot'
 
 
 global.wm = '©The Shadow Brokers - Bot'
